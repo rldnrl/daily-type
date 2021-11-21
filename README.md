@@ -11,3 +11,5 @@
 - [x] [SymmetricDifference](https://github.com/vueveloper/ts-helper/blob/main/symmetric-difference.ts)
 - [x] [NonUndefined](https://github.com/vueveloper/ts-helper/blob/main/non-undefined.ts)
 - [x] [NonNullable](https://github.com/vueveloper/ts-helper/blob/main/non-nullable.ts)
+- [x] [FunctionKey](https://github.com/vueveloper/ts-helper/blob/main/function-key.ts)
+- [x] [NonFunctionKey](https://github.com/vueveloper/ts-helper/blob/main/non-function-key.ts)
