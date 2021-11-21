@@ -9,3 +9,5 @@
 - [x] [SetDifference](https://github.com/vueveloper/ts-helper/blob/main/set-difference.ts)
 - [x] [SetComplement](https://github.com/vueveloper/ts-helper/blob/main/set-complement.ts)
 - [x] [SymmetricDifference](https://github.com/vueveloper/ts-helper/blob/main/symmetric-difference.ts)
+- [x] [NonUndefined](https://github.com/vueveloper/ts-helper/blob/main/non-undefined.ts)
+- [x] [NonNullable](https://github.com/vueveloper/ts-helper/blob/main/non-nullable.ts)
