@@ -13,3 +13,5 @@
 - [x] [NonNullable](https://github.com/vueveloper/ts-helper/blob/main/non-nullable.ts)
 - [x] [FunctionKey](https://github.com/vueveloper/ts-helper/blob/main/function-keys.ts)
 - [x] [NonFunctionKey](https://github.com/vueveloper/ts-helper/blob/main/non-function-keys.ts)
+- [x] [IfEquals](https://github.com/vueveloper/ts-helper/blob/main/if-equals.ts)
+- [x] [ReadonlyKeys](https://github.com/vueveloper/ts-helper/blob/main/readonly-keys.ts)
