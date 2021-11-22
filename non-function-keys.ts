@@ -13,6 +13,6 @@
 
 type NonUndefined<A> = A extends undefined ? never : A
 
-type NonFunctionKey<T extends object> = {
+type NonFunctionKeys<T extends object> = {
   [Key in keyof T] -?: NonUndefined<T[Key]> extends Function ? never : T[Key]
 }[keyof T]
