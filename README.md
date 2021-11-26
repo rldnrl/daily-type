@@ -17,3 +17,5 @@
 - [x] [ReadonlyKeys](https://github.com/vueveloper/ts-helper/blob/main/readonly-keys.ts)
 - [x] [MutableKeys](https://github.com/vueveloper/ts-helper/blob/main/mutable-keys.ts)
 - [x] [WritableKeys](https://github.com/vueveloper/ts-helper/blob/main/writable-keys.ts)
+- [x] [RequiredKeys](https://github.com/vueveloper/ts-helper/blob/main/required-keys.ts)
+- [x] [OptionalKeys](https://github.com/vueveloper/ts-helper/blob/main/optional-keys.ts)
