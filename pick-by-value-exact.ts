@@ -24,9 +24,9 @@ type PickByValueExtract<T, ValueType> = Pick<
   T,
   {
     [Key in keyof T]-?: [ValueType] extends [T[Key]] 
-    ? [T[Key]] extends [ValueType] 
-      ? Key 
+      ? [T[Key]] extends [ValueType] 
+        ? Key 
+        : never
       : never
-    : never
   }[keyof T]
 >
