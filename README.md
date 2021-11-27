@@ -19,3 +19,5 @@
 - [x] [WritableKeys](https://github.com/vueveloper/ts-helper/blob/main/writable-keys.ts)
 - [x] [RequiredKeys](https://github.com/vueveloper/ts-helper/blob/main/required-keys.ts)
 - [x] [OptionalKeys](https://github.com/vueveloper/ts-helper/blob/main/optional-keys.ts)
+- [x] [PickByValue](https://github.com/vueveloper/ts-helper/blob/main/pick-by-value.ts)
+- [x] [PickByValueExact](https://github.com/vueveloper/ts-helper/blob/main/pick-by-value-exact.ts)
