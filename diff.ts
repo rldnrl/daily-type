@@ -12,6 +12,7 @@ type SetDifference<A, B> = A extends B ? never : A
  *   visible: boolean;
  * }
  */
+
 type Diff<T, U> = Pick<
   T,
   SetDifference<keyof T, keyof U>
