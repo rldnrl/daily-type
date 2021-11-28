@@ -21,3 +21,5 @@
 - [x] [OptionalKeys](https://github.com/vueveloper/ts-helper/blob/main/optional-keys.ts)
 - [x] [PickByValue](https://github.com/vueveloper/ts-helper/blob/main/pick-by-value.ts)
 - [x] [PickByValueExact](https://github.com/vueveloper/ts-helper/blob/main/pick-by-value-exact.ts)
+- [x] [OmitByValue](https://github.com/vueveloper/ts-helper/blob/main/omit-by-value.ts)
+- [x] [OmitByValueExact](https://github.com/vueveloper/ts-helper/blob/main/omit-by-value-exact.ts)
