@@ -23,3 +23,5 @@
 - [x] [PickByValueExact](https://github.com/vueveloper/ts-helper/blob/main/pick-by-value-exact.ts)
 - [x] [OmitByValue](https://github.com/vueveloper/ts-helper/blob/main/omit-by-value.ts)
 - [x] [OmitByValueExact](https://github.com/vueveloper/ts-helper/blob/main/omit-by-value-exact.ts)
+- [x] [Intersection](https://github.com/vueveloper/ts-helper/blob/main/intersection.ts)
+- [x] [Diff](https://github.com/vueveloper/ts-helper/blob/main/diff.ts)
