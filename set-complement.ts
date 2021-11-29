@@ -6,4 +6,5 @@ type SetDifference<A, B> = A extends B ? never : A
  * SetComplement<"1" | "2" | "3", "2" | "3">
  * 결과: "1"
  */
+
 type SetComplement<A, A1 extends A> = SetDifference<A, A1>
