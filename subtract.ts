@@ -23,9 +23,8 @@ type SetComplement<A, A1 extends A> = SetDifference<A, A1>
  *   age: number;
  *   email: string;
  * }
-
-type A = Subtract<User, User1>
  */
+
 type Subtract<T extends T1, T1 extends object> = Pick<
   T,
   SetComplement<keyof T, keyof T1>
