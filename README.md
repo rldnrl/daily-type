@@ -27,3 +27,5 @@
 - [x] [Diff](https://github.com/vueveloper/ts-helper/blob/main/diff.ts)
 - [x] [Subtract](https://github.com/vueveloper/ts-helper/blob/main/subtract.ts)
 - [x] [Overwrite](https://github.com/vueveloper/ts-helper/blob/main/overwrite.ts)
+- [x] [assign](https://github.com/vueveloper/ts-helper/blob/main/assign.ts)
+- [x] [Unionize](https://github.com/vueveloper/ts-helper/blob/main/unionize.ts)
