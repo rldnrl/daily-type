@@ -25,3 +25,5 @@
 - [x] [OmitByValueExact](https://github.com/vueveloper/ts-helper/blob/main/omit-by-value-exact.ts)
 - [x] [Intersection](https://github.com/vueveloper/ts-helper/blob/main/intersection.ts)
 - [x] [Diff](https://github.com/vueveloper/ts-helper/blob/main/diff.ts)
+- [x] [Subtract](https://github.com/vueveloper/ts-helper/blob/main/subtract.ts)
+- [x] [Overwrite](https://github.com/vueveloper/ts-helper/blob/main/overwrite.ts)
