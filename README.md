@@ -29,3 +29,4 @@
 - [x] [Overwrite](https://github.com/vueveloper/ts-helper/blob/main/overwrite.ts)
 - [x] [Assign](https://github.com/vueveloper/ts-helper/blob/main/assign.ts)
 - [x] [Unionize](https://github.com/vueveloper/ts-helper/blob/main/unionize.ts)
+- [x] [PromiseType](https://github.com/vueveloper/ts-helper/blob/main/promise-type.ts)
