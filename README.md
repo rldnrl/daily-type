@@ -31,3 +31,4 @@
 - [x] [Unionize](https://github.com/vueveloper/ts-helper/blob/main/unionize.ts)
 - [x] [PromiseType](https://github.com/vueveloper/ts-helper/blob/main/promise-type.ts)
 - [x] [Optional](https://github.com/vueveloper/ts-helper/blob/main/optional.ts)
+- [x] [DeepReadonly](https://github.com/vueveloper/ts-helper/blob/main/deep-readonly.ts)
