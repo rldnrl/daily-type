@@ -33,3 +33,4 @@
 - [x] [Optional](https://github.com/vueveloper/ts-helper/blob/main/optional.ts)
 - [x] [DeepReadonly](https://github.com/vueveloper/ts-helper/blob/main/deep-readonly.ts)
 - [x] [DeepRequired](https://github.com/vueveloper/ts-helper/blob/main/deep-required.ts)
+- [x] [DeepPartial](https://github.com/vueveloper/ts-helper/blob/main/deep-partial.ts)
