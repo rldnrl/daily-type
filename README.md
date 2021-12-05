@@ -35,3 +35,5 @@
 - [x] [DeepRequired](https://github.com/vueveloper/ts-helper/blob/main/deep-required.ts)
 - [x] [DeepPartial](https://github.com/vueveloper/ts-helper/blob/main/deep-partial.ts)
 - [x] [ValuesType](https://github.com/vueveloper/ts-helper/blob/main/values-type.ts)
+- [x] [AugmentRequired](https://github.com/vueveloper/ts-helper/blob/main/augment-required.ts)
+- [x] [Mutable](https://github.com/vueveloper/ts-helper/blob/main/mutable.ts)
