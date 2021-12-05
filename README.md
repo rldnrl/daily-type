@@ -34,3 +34,4 @@
 - [x] [DeepReadonly](https://github.com/vueveloper/ts-helper/blob/main/deep-readonly.ts)
 - [x] [DeepRequired](https://github.com/vueveloper/ts-helper/blob/main/deep-required.ts)
 - [x] [DeepPartial](https://github.com/vueveloper/ts-helper/blob/main/deep-partial.ts)
+- [x] [ValuesType](https://github.com/vueveloper/ts-helper/blob/main/values-type.ts)
