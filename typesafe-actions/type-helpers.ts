@@ -84,3 +84,27 @@ export type MetaPayloadActionCreator<TType extends TypeConstant, TPayload, TMeta
 export interface ActionCreatorTypeMetadata<TType extends TypeConstant> {
   getType?: () => TType
 }
+
+/**
+ * @description Action Creator Map 객체에서 Action Union Type 추론
+ */
+
+export type ActionType<TActionCreatorOrMap extends any> = TActionCreatorOrMap extends ActionCreator<TypeConstant>
+  ? ReturnType<TActionCreatorOrMap>
+  : TActionCreatorOrMap extends Record<any, any>
+  ? {
+      [K in keyof TActionCreatorOrMap]: ActionType<TActionCreatorOrMap[K]>
+    }[keyof TActionCreatorOrMap]
+  : TActionCreatorOrMap extends (infer R)
+  ? never
+  : never
+
+/**
+ * @description Reducer Object Map으로부터 State Object를 추론한다.
+ */
+
+export type StateType<TReducerOrMap extends any> = TReducerOrMap extends Reducer<any, any>
+  ? ReturnType<TReducerOrMap>
+  : TReducerOrMap extends Record<any, any>
+  ? { [K in keyof TReducerOrMap]: StateType<TReducerOrMap[K]> }[keyof TReducerOrMap]
+  : never
