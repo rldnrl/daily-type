@@ -1,5 +1,10 @@
 import { TypeConstant } from "./type-helpers";
-import { checkIsEmpty, throwIsEmpty } from "./utils/validation";
+import {
+  checkInvalidActionCreator,
+  checkIsEmpty,
+  throwInvalidActionCreator,
+  throwIsEmpty,
+} from "./utils/validation";
 
 export function action<T extends TypeConstant, E>(
   type: T,
@@ -61,6 +66,9 @@ export function action<
     throwIsEmpty(1);
   }
 
-  
+  if (checkInvalidActionCreator(type)) {
+    throwInvalidActionCreator(1);
+  }
+
   return { type, payload, meta, error } as any;
 }
