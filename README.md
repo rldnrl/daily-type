@@ -1,6 +1,7 @@
 # Daily Type
 하루에 2개씩 타입을 정리하는 챌린지
 
+## [Utility-Types](https://github.com/piotrwitek/utility-types)
 - [x] [Combine](https://github.com/vueveloper/ts-helper/blob/main/combine.ts)
 - [x] [Primitive](https://github.com/vueveloper/ts-helper/blob/main/primitive.ts)
 - [x] [Falsy](https://github.com/vueveloper/ts-helper/blob/main/falsy.ts)
