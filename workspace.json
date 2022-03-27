@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "projects": {
+    "utility-type": "packages/utility-type"
+  }
+}

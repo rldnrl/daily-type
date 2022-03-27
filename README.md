@@ -1,7 +1,9 @@
-# Daily Type
+# Type Practice
+
 하루에 2개씩 타입을 정리하는 챌린지
 
 ## [Utility-Types](https://github.com/piotrwitek/utility-types)
+
 - [x] [Combine](https://github.com/rldnrl/daily-type/blob/main/utility-types/combine.ts)
 - [x] [Primitive](https://github.com/rldnrl/daily-type/blob/main/utility-types/primitive.ts)
 - [x] [Falsy](https://github.com/rldnrl/daily-type/blob/main/utility-types/falsy.ts)
