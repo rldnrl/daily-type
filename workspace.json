@@ -1,6 +1,8 @@
 {
   "version": 2,
   "projects": {
+    "ts-essentials": "packages/ts-essentials",
+    "type-fest": "packages/type-fest",
     "utility-type": "packages/utility-type"
   }
 }

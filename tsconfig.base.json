@@ -15,6 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@type-pratice/ts-essentials": ["packages/ts-essentials/src/index.ts"],
+      "@type-pratice/type-fest": ["packages/type-fest/src/index.ts"],
       "@type-pratice/utility-type": ["packages/utility-type/src/index.ts"]
     }
   },
