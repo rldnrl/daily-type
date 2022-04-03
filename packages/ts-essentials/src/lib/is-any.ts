@@ -1,5 +1,4 @@
 /**
- * IsAny
  *
  * @description
  * `any`이면 `true` 타입으로 설정됩니다.
